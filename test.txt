@@ -2,3 +2,4 @@ Treść pliku testowego
 Nowe zdanie
 kolejny test
 test again
+AAAAA
