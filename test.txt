@@ -1,2 +1,3 @@
 Treść pliku testowego
 Nowe zdanie
+kolejny test
