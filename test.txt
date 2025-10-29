@@ -3,3 +3,4 @@ Nowe zdanie
 kolejny test
 test again
 AAAAA
+Final test
